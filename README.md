@@ -10,7 +10,7 @@
 
 A Frontend developer from Argentina, mainly focused on the [React][react] ecosystem. I love building products and solving problems through clean and maintainable code.
 
-[*Visit my Portfolio*](https://genaroibc-github-io-1q58.vercel.app/)
+[*Visit my Portfolio*](https://portfolio-genaroibc.vercel.app/)
 
 [react]: https://reactjs.org/
 
