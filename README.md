@@ -8,9 +8,11 @@
 
 A Frontend developer from Argentina, mainly focused on the [React][react] ecosystem. I love building products and solving problems through clean and maintainable code.
 
-[*Visit my Portfolio*](https://portfolio-genaroibc.vercel.app/)
+[**Portfolio**](https://portfolio-genaroibc.vercel.app/) | 
+[**Blog**](https://ikodi.vercel.app)
 
 [react]: https://reactjs.org/
+
 
 <!--
 **GenaroIBC/genaroibc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
