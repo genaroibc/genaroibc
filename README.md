@@ -6,7 +6,7 @@
 
 ## I'm Genaro Bonavita
 
-A Frontend developer from Argentina, mainly focused on the [React][react] ecosystem. I love building products and solving problems through clean and maintainable code.
+A Frontend developer, mainly focused on the React ecosystem. I love building products and solving problems through clean and maintainable code.
 
 [**Portfolio**](https://portfolio-genaroibc.vercel.app/) | 
 [**Blog**](https://ikodi.vercel.app)
