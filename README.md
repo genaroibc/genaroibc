@@ -4,9 +4,6 @@
   </a>
 </h1> -->
 
-<!-- [**Portfolio**](https://portfolio-genaroibc.vercel.app/) |
-[**Blog**](https://ikodi.vercel.app) -->
-
 <div align="center">
 
 # Genaro Bonavita
