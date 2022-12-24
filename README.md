@@ -9,14 +9,17 @@
 
 <div align="center">
 
-# Genaro Bonavita - Front-end Developer
-  
-### I build products and solve problems through clean and maintainable code
+# Genaro Bonavita
+## Front-end Developer
 
+I build products and solve problems through clean and maintainable code
   
-- 🔭 I’m currently working on [IKodi](https://ikodi.vercel.app), my personal blog
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on open-source projects
+  
+> 🔭 I’m currently working on [IKodi](https://ikodi.vercel.app), my personal blog
+
+> 🌱 I’m currently learning TypeScript
+
+> 👯 I’m looking to collaborate on open-source projects
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?theme=darkmode&username=genaroibc&data=followers,repositories,stars,commits)](https://github.com/genaroibc)
   
