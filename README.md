@@ -1,3 +1,12 @@
+<!-- <h1 align="center">
+  <a target="_blank" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!;Welcome+to+my+GitHub+profile...&center=true&size=20">
+  </a>
+</h1> -->
+
+<!-- [**Portfolio**](https://portfolio-genaroibc.vercel.app/) |
+[**Blog**](https://ikodi.vercel.app) -->
+
 <div align="center">
 
 # Genaro Bonavita
