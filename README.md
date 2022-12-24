@@ -21,6 +21,12 @@ I build products and solve problems through clean and maintainable code
 
 > 👯 I’m looking to collaborate on open-source projects
   
+  
+<br>
+<br>
+  
+### Some stats
+  
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?theme=darkmode&username=genaroibc&data=followers,repositories,stars,commits)](https://github.com/genaroibc)
   
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?theme=nautilus&languages=js,ts,react,next,node,mongodb)](https://github.com/Jurredr/github-widgetbox) -->
