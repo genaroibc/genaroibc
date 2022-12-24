@@ -23,7 +23,7 @@ I build products and solve problems through clean and maintainable code
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?theme=darkmode&username=genaroibc&data=followers,repositories,stars,commits)](https://github.com/genaroibc)
   
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?theme=darkmode&languages=js,ts,react,next,node,mongodb)](https://github.com/Jurredr/github-widgetbox) -->
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?theme=nautilus&languages=js,ts,react,next,node,mongodb)](https://github.com/Jurredr/github-widgetbox) -->
  
  <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=genaroibc&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
