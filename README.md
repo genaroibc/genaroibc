@@ -14,7 +14,7 @@ I build products and solve problems through clean and maintainable code
 
 > 🔭 I’m currently working on [IKodi](https://ikodi.vercel.app), my personal blog
 
-> 🌱 I’m currently learning TypeScript
+> 🌱 I’m currently learning Testing with Jest and RTL
 
 > 👯 I’m looking to collaborate on open-source projects
 
