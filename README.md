@@ -1,24 +1,31 @@
-<!-- <h1 align="center">
-  <a target="_blank" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!;Welcome+to+my+GitHub+profile...&center=true&size=20">
-  </a>
-</h1> -->
-
 <div align="center">
 
-# [Genaro Bonavita](https://genarobonavita.dev)
+# Hi! I am [Genaro Bonavita](https://genarobonavita.dev)
 
-## Front-end Developer
+## Frontend Developer
 
 I build products and solve problems through clean and maintainable code
 
-> 🔭 I’m currently working on [IKodi](https://ikodi.vercel.app), my personal blog
+### My tech stack
 
-> 🌱 I’m currently learning Testing with Jest and RTL
+![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
 
-> 👯 I’m looking to collaborate on open-source projects
 
-<br>
+🔭 I’m currently working on [IKodi](https://ikodi.vercel.app), my personal blog
+
+🌱 I’m currently learning Testing with Jest and RTL
+
+👯 I’m looking to collaborate on open-source projects
+
 <br>
 
 ### Some stats
