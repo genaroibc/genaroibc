@@ -20,9 +20,9 @@ I build products and solve problems through clean and maintainable code
 ![](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
 
 
-🔭 I’m currently working on [IKodi](https://ikodi.vercel.app), my personal blog
-
-🌱 I’m currently learning Testing with Jest and RTL
+🔭 I’m currently building [TailwindHub](https://tailwindhub.dev), an open-source platform to share TailwindCSS components
+ 
+🌱 I’m currently learning about Web3
 
 👯 I’m looking to collaborate on open-source projects
 
