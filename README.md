@@ -14,11 +14,11 @@ I build products and solve problems through clean and maintainable code
 
 <br>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/genaroibc/genaroibc/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/genaroibc/genaroibc/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> -->
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?theme=darkmode&username=genaroibc&data=followers,repositories,stars,commits)](https://github.com/genaroibc) -->
 
